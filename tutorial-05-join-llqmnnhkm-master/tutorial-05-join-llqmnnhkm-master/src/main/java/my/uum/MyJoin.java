@@ -1,7 +1,7 @@
 package my.uum;
 
 import java.util.Scanner;
-import java.util.ArrayLis;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.CountDownLatch;
 
