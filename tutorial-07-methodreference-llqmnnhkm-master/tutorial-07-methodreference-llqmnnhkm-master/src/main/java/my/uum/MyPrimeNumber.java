@@ -1,6 +1,6 @@
 package my.uum;
 
-import java.util.Scanner;
+import java.util.Scanne;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public class MyPrimeNumber {
