@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public class MyPrimeNumber {
-r
+
     // AtomicInteger to safely track sum across multiple threads
     private static AtomicInteger totalSum = new AtomicInteger(0);
 
