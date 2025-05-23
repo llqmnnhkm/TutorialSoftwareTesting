@@ -3,7 +3,7 @@ package my.uum;
 import java.util.Scanner;
 import java.util.concurrent.atomic.AtomicInteger;
 
-public class MyPrimeNumber {
+public class MyPrimeNumbe {
 
     // AtomicInteger to safely track sum across multiple threads
     private static AtomicInteger totalSum = new AtomicInteger(0);
