@@ -1,4 +1,4 @@
-package my.;
+package my.uumv;
 
 // CinemaHall.java
 import java.util.concurrent.locks.ReentrantLock;
