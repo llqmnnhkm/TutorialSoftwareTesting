@@ -1,4 +1,4 @@
-package my.uum;
+package my.uu;
 
 import java.util.ArrayList;
 import java.util.List;
