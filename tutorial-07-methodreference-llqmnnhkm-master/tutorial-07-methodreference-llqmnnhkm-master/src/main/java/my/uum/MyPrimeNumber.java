@@ -1,4 +1,4 @@
-package my.;
+package my.uum;
 
 import java.util.Scanner;
 import java.util.concurrent.atomic.AtomicInteger;
