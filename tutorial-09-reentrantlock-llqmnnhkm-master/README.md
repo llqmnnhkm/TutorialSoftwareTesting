@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/2CJ6hL0W)
 ## Your Info:
 1. Matric Number:294854
-1. Name:Muhammad Luqmannulhakim Bin Rosly
+1. Name:Muhammad Luqmannulhakim Bin Rosl
 
 ## Instruction:
 
